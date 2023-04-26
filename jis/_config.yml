@@ -22,6 +22,6 @@ theme: minima
 plugins:
   - jekyll-feed
 sass:
-  load_paths:
-    - _sass
+  sass_dir: _sass
+  style: compressed
   
