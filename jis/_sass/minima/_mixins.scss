@@ -1,0 +1,19 @@
+$breakpoints: (
+  "on-large": "screen and (min-width: 64em)",
+  "on-medium": "screen and (min-width: 48em)",
+  "on-small": "screen and (min-width: 36em)",
+  "on-xsmall": "screen and (max-width: 35.9375em)"
+);
+
+@mixin relative-font-size($multiplier) {
+	font-size: calc(#{$base-font-size} * #{$multiplier} / #{$base-font-size-root});
+	font-size: calc(#{$base-font-size} * $multiplier / #{$base-font-size-root});
+	line-height: calc(#{$base-line-height} * #{$multiplier} / #{$base-font-size-root});
+	line-height: calc(#{$base-line-height} * #{$multiplier} / #{$base-font-size-root});
+}
+
+@mixin media-query($key) {
+  @media #{$breakpoints[$key]} {
+    @content;
+  }
+}

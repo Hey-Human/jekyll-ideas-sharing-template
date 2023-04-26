@@ -1,0 +1,43 @@
+---
+---
+
+@import "minima/variables";
+@import "minima/base";
+
+/* Custom styles */
+
+/* Page header */
+header.site-header {
+  background-color: $brand-color;
+  color: $header-text-color;
+}
+
+header.site-header .wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Main content */
+main {
+  flex-grow: 1;
+}
+
+.post-header h1 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-meta {
+  color: $text-color;
+}
+
+/* Footer */
+.site-footer {
+  background-color: $footer-background-color;
+  color: $footer-text-color;
+}
+.site-nav .page-link {
+  color: #fff;
+}

@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: "Acerca de nuestro ideario"
+permalink: /acerca-de-ideario/
 ---
 
 ## Nuestro Ideario
@@ -17,6 +16,4 @@ En nuestra organización nos regimos por los siguientes valores y principios:
 
 Estos valores nos definen y guían nuestro trabajo diario. Si compartes nuestra visión, ¡únete a nosotros y se parte del cambio!
 
-Para conocer más sobre nuestra empresa, descarga nuestro [Whitepaper](/whitepaper).
-
-Para conocer más sobre nuestra empresa, lee nuestro [post sobre idear.io]({% post_url 2023-04-26-idear-io %}).
+Para conocer más sobre nuestra empresa, descarga nuestro [Whitepaper: Innovación tecnológica de código abierto que sigue técnicas de Bioética](/whitepaper).
