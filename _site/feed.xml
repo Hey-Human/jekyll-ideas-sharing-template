@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-26T19:05:54-03:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/04/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-26T10:16:25-03:00</published><updated>2023-04-26T10:16:25-03:00</updated><id>http://localhost:4000/jekyll/update/2023/04/26/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/04/26/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Idear.io: Connecting People with High-Impact Ideas</title><link href="http://localhost:4000/technology/innovation/social%20impact/2023/04/26/idear-io-whitepaper-en.html" rel="alternate" type="text/html" title="Idear.io: Connecting People with High-Impact Ideas" /><published>2023-04-26T00:00:00-03:00</published><updated>2023-04-26T00:00:00-03:00</updated><id>http://localhost:4000/technology/innovation/social%20impact/2023/04/26/idear-io-whitepaper-en</id><content type="html" xml:base="http://localhost:4000/technology/innovation/social%20impact/2023/04/26/idear-io-whitepaper-en.html"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>Idear.io is a groundbreaking platform aimed at connecting people with the most relevant and meaningful ideas in real-time. The platform combines elements of Twitter and Tinder, offering a unique and interactive experience where users can discover and engage with high-impact ideas. This whitepaper provides a detailed insight into the solution Idear.io presents for fostering the generation and dissemination of ideas in our society.</p>
+
+<h2 id="problem-description">Problem Description</h2>
+
+<p>In the information age, people are constantly exposed to a vast amount of ideas and opinions online. However, it is not always easy to find quality ideas or engage with those that truly matter. The process of discovering and disseminating ideas is often slow, inefficient, and can be affected by biases and opaque algorithms.</p>
+
+<h2 id="proposed-solution-ideario">Proposed Solution: Idear.io</h2>
+
+<p>Idear.io seeks to address these challenges by providing a unique and user-friendly platform where users can:</p>
+
+<ol>
+  <li><strong>Generate and share ideas</strong>: Idear.io enables users to submit and discuss their ideas openly and collaboratively.</li>
+  <li><strong>Discover relevant ideas</strong>: The platform utilizes smart algorithms and personalized preferences to present users with ideas of interest and relevance.</li>
+  <li><strong>Engage with high-impact ideas</strong>: Users can vote for or against ideas, allowing the community to identify and support ideas with the greatest potential.</li>
+</ol>
+
+<h3 id="unbounded-by-technological-or-budgetary-constraints">Unbounded by Technological or Budgetary Constraints</h3>
+
+<p>Idear.io would become the leading platform for idea exchange, with advanced features like artificial intelligence, sentiment analysis, and machine learning to enhance user experience and ensure the quality of shared ideas.</p>
+
+<h3 id="discover-the-future-of-idea-generation-and-dissemination-with-ideario">Discover the future of idea generation and dissemination with Idear.io!</h3>
+
+<p>Tired of wasting time searching for valuable ideas online? With Idear.io, the solution is at your fingertips! Our platform connects you with the most relevant and exciting ideas, allowing you to be part of the change and make a difference. Don’t be left behind, join Idear.io today!</p>
+
+<h3 id="threats">Threats</h3>
+
+<ol>
+  <li>Competition from other idea exchange platforms or social networks.</li>
+  <li>Difficulties in moderating and controlling the quality of shared ideas.</li>
+  <li>Potential privacy and security issues with user data.</li>
+</ol>
+
+<h3 id="opportunities">Opportunities</h3>
+
+<ol>
+  <li>Filling a gap in the current market for a platform focused on generating and disseminating quality ideas.</li>
+  <li>Stimulating creativity and collaboration among people from different fields and backgrounds.</li>
+  <li>Facilitating the discovery of innovative solutions to global and local problems.</li>
+</ol>
+
+<p>With Idear.io, users can become active agents in the search and promotion of ideas that can change the world. Don’t wait any longer, explore the potential of Idear.io and start making an impact today!</p>]]></content><author><name></name></author><category term="technology" /><category term="innovation" /><category term="social impact" /><summary type="html"><![CDATA[Introduction]]></summary></entry><entry><title type="html">Idear.io: Plataforma revolucionaria de intercambio de ideas</title><link href="http://localhost:4000/innovacion/tecnologia/codigo-abierto/bioetica/2023/04/26/idear-io-whitepaper-es.html" rel="alternate" type="text/html" title="Idear.io: Plataforma revolucionaria de intercambio de ideas" /><published>2023-04-26T00:00:00-03:00</published><updated>2023-04-26T00:00:00-03:00</updated><id>http://localhost:4000/innovacion/tecnologia/codigo-abierto/bioetica/2023/04/26/idear-io-whitepaper-es</id><content type="html" xml:base="http://localhost:4000/innovacion/tecnologia/codigo-abierto/bioetica/2023/04/26/idear-io-whitepaper-es.html"><![CDATA[<h2 id="introducción">Introducción</h2>
+
+<p>Idear.io es una plataforma innovadora que tiene como objetivo conectar a las personas con las ideas más relevantes y significativas en tiempo real. La plataforma combina elementos de Twitter y Tinder, ofreciendo una experiencia única e interactiva donde los usuarios pueden descubrir y participar en ideas de alto impacto. Este whitepaper proporciona una visión detallada de la solución que Idear.io presenta para fomentar la generación y difusión de ideas en nuestra sociedad.</p>
+
+<h2 id="descripción-del-problema">Descripción del problema</h2>
+
+<p>En la era de la información, las personas están constantemente expuestas a una gran cantidad de ideas y opiniones en línea. Sin embargo, no siempre es fácil encontrar ideas de calidad o participar en aquellas que realmente importan. El proceso de descubrimiento y difusión de ideas a menudo es lento, ineficiente y puede verse afectado por sesgos y algoritmos opacos.</p>
+
+<h2 id="solución-propuesta-ideario">Solución propuesta: Idear.io</h2>
+
+<p>Idear.io busca abordar estos desafíos proporcionando una plataforma única y fácil de usar donde los usuarios pueden:</p>
+
+<ol>
+  <li><strong>Generar y compartir ideas</strong>: Idear.io permite a los usuarios presentar y discutir sus ideas de manera abierta y colaborativa.</li>
+  <li><strong>Descubrir ideas relevantes</strong>: La plataforma utiliza algoritmos inteligentes y preferencias personalizadas para presentar a los usuarios ideas de interés y relevancia.</li>
+  <li><strong>Participar en ideas de alto impacto</strong>: Los usuarios pueden votar a favor o en contra de las ideas, lo que permite a la comunidad identificar y apoyar las ideas con mayor potencial.</li>
+</ol>
+
+<h3 id="-sin-limitaciones-tecnológicas-ni-presupuestarias">📄 Sin limitaciones tecnológicas ni presupuestarias</h3>
+
+<p>Idear.io se convertiría en la plataforma líder para el intercambio de ideas, con características avanzadas como inteligencia artificial, análisis de sentimientos y aprendizaje automático para mejorar la experiencia del usuario y garantizar la calidad de las ideas compartidas.</p>
+
+<h3 id="-descubre-el-futuro-de-la-generación-y-difusión-de-ideas-con-ideario">😎 ¡Descubre el futuro de la generación y difusión de ideas con Idear.io!</h3>
+
+<p>¿Cansado de perder el tiempo buscando ideas valiosas en línea? ¡Con Idear.io, la solución está al alcance de tu mano! Nuestra plataforma te conecta con las ideas más relevantes y emocionantes, permitiéndote formar parte del cambio y marcar la diferencia. ¡No te quedes atrás, únete a Idear.io hoy mismo!</p>
+
+<h3 id="-amenazas">👀 Amenazas</h3>
+
+<ol>
+  <li>Competencia de otras plataformas de intercambio de ideas o redes sociales.</li>
+  <li>Dificultades para moderar y controlar la calidad de las ideas compartidas.</li>
+  <li>Posibles problemas de privacidad y seguridad con los datos de los usuarios.</li>
+</ol>
+
+<h3 id="-oportunidades">🍀 Oportunidades</h3>
+
+<ol>
+  <li>Llenar un vacío en el mercado actual de una plataforma enfocada en generar y difundir ideas de calidad.</li>
+  <li>Estimular la creatividad y la colaboración entre personas de diferentes campos y orígenes.</li>
+  <li>Facilitar el descubrimiento de soluciones innovadoras a problemas globales y locales.</li>
+</ol>
+
+<p>Con Idear.io, los usuarios pueden convertirse en agentes activos en la búsqueda y promoción de ideas que pueden cambiar el mundo. ¡No esper</p>]]></content><author><name></name></author><category term="innovacion" /><category term="tecnologia" /><category term="codigo-abierto" /><category term="bioetica" /><summary type="html"><![CDATA[Introducción]]></summary></entry><entry><title type="html">Bienvenido a idear.io</title><link href="http://localhost:4000/ideario/tecnolog%C3%ADa/bio%C3%A9tica/2023/04/26/idear-io.html" rel="alternate" type="text/html" title="Bienvenido a idear.io" /><published>2023-04-26T00:00:00-03:00</published><updated>2023-04-26T00:00:00-03:00</updated><id>http://localhost:4000/ideario/tecnolog%C3%ADa/bio%C3%A9tica/2023/04/26/idear-io</id><content type="html" xml:base="http://localhost:4000/ideario/tecnolog%C3%ADa/bio%C3%A9tica/2023/04/26/idear-io.html"><![CDATA[<p>¡Hola y bienvenido a Idear.io! Estamos encantados de que hayas decidido unirte a nuestra comunidad de difusión de ideas y conocimientos.</p>
+
+<p>Idear.io es una plataforma creada para compartir y explorar ideas apasionantes en diversos temas. Nuestro objetivo es construir una comunidad de colaboradores, educadores y entusiastas que deseen difundir conocimientos e inspirarse mutuamente.</p>
+
+<p>¡Gracias por unirte a Idear.io y esperamos que disfrutes de tu experiencia aquí! No dudes en ponerte en contacto con nosotros si tienes alguna pregunta o sugerencia. Estamos ansiosos por escuchar tus ideas y ayudarte en tu camino hacia la difusión de conocimientos.</p>
+
+<p>Para conocer más sobre nuestra plataforma, descarga nuestro <a href="./2023-04-26-idear-io-whitepaper-en.md">Whitepaper en Inglés</a> o nuestro <a href="./2023-04-26-idear-io-whitepaper-es.md">Whitepaper en Español</a>.</p>]]></content><author><name></name></author><category term="ideario" /><category term="tecnología" /><category term="bioética" /><summary type="html"><![CDATA[¡Hola y bienvenido a Idear.io! Estamos encantados de que hayas decidido unirte a nuestra comunidad de difusión de ideas y conocimientos.]]></summary></entry><entry><title type="html">¡Bienvenido!</title><link href="http://localhost:4000/2023/04/26/jis-template.html" rel="alternate" type="text/html" title="¡Bienvenido!" /><published>2023-04-26T00:00:00-03:00</published><updated>2023-04-26T00:00:00-03:00</updated><id>http://localhost:4000/2023/04/26/jis-template</id><content type="html" xml:base="http://localhost:4000/2023/04/26/jis-template.html"><![CDATA[<p>¡Hola y bienvenido a Idear.io! Estamos encantados de que hayas decidido unirte a nuestra comunidad de difusión de ideas y conocimientos.</p>
+
+<p>Idear.io es una plataforma creada para compartir y explorar ideas apasionantes en diversos temas. Nuestro objetivo es construir una comunidad de colaboradores, educadores y entusiastas que deseen difundir conocimientos e inspirarse mutuamente.</p>
+
+<p>Algunas características clave de Idear.io incluyen:</p>
+
+<ol>
+  <li><strong>Plantilla Jekyll personalizada</strong>: Hemos creado una plantilla Jekyll fácil de usar y personalizable para que puedas comenzar rápidamente con tu proyecto de difusión de ideas.</li>
+  <li><strong>Integración con GitHub Pages</strong>: Aloja fácilmente tu sitio en GitHub Pages y mantén tus proyectos de difusión de ideas accesibles y organizados.</li>
+  <li><strong>Diseño y estilos personalizados</strong>: Nuestra plantilla incluye un diseño moderno y estilos personalizados que facilitan la creación de un sitio atractivo y fácil de navegar.</li>
+</ol>
+
+<p>Para comenzar con Idear.io, simplemente sigue las instrucciones de instalación y configuración en nuestro repositorio de GitHub. En poco tiempo, estarás compartiendo tus ideas y colaborando con otros en nuestra emocionante comunidad.</p>
+
+<p>¡Gracias por unirte a Idear.io y esperamos que disfrutes de tu experiencia aquí! No dudes en ponerte en contacto con nosotros si tienes alguna pregunta o sugerencia. Estamos ansiosos por escuchar tus ideas y ayudarte en tu camino hacia la difusión de conocimientos.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[¡Hola y bienvenido a Idear.io! Estamos encantados de que hayas decidido unirte a nuestra comunidad de difusión de ideas y conocimientos.]]></summary></entry></feed>
