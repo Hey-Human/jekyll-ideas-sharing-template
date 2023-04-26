@@ -19,4 +19,5 @@ Estos valores nos definen y guían nuestro trabajo diario. Si compartes nuestra 
 
 Para conocer más sobre nuestra empresa, descarga nuestro [Whitepaper](/whitepaper).
 
-Para conocer más sobre nuestra empresa, lee nuestro [post sobre idear.io]({% post_url 2023-04-26-idear-io %}).
+Para conocer más sobre nuestra empresa, lee nuestro [post sobre idear.io]({{ site.baseurl }}{% link _posts/2023-04-26-idear-io.md %})
+
