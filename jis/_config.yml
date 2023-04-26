@@ -21,3 +21,7 @@ nav:
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  load_paths:
+    - _sass
+  
