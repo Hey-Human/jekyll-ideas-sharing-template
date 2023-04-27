@@ -1,7 +1,7 @@
 # Site settings
 # ...
 github_username:  tres-caras
-
+baseurl: https://hey-human.github.io/
 nav:
   - title: "Inicio"
     url: "/"
