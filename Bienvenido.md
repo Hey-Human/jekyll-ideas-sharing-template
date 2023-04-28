@@ -11,4 +11,4 @@ Idear.io es una plataforma creada para compartir y explorar ideas apasionantes e
 
 ¡Gracias por unirte a Idear.io y esperamos que disfrutes de tu experiencia aquí! No dudes en ponerte en contacto con nosotros si tienes alguna pregunta o sugerencia. Estamos ansiosos por escuchar tus ideas y ayudarte en tu camino hacia la difusión de conocimientos.
 
-Para conocer más sobre nuestra plataforma, descarga nuestro [Whitepaper en Inglés](/whitepaper-en.md) o nuestro [Whitepaper en Español](/whitepaper-es.md).
+Para conocer más sobre nuestra plataforma, descarga nuestro [Whitepaper en Inglés](/whitepaper-en) o nuestro [Whitepaper en Español](/whitepaper-es).
