@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Idear.io: Connecting People with High-Impact Ideas"
 date: 2023-04-26
 categories: [technology, innovation, social impact]

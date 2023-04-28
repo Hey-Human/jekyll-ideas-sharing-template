@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Acerca de nuestro ideario"
 permalink: /acerca-de-ideario/
 ---
